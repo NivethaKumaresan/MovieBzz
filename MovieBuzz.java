@@ -16,7 +16,11 @@ public class MovieBuzz
             }
             switch (hero) 
             {
-                
+                 case "movie":
+                    System.out.println("bala");
+                    System.out.println("balaya");
+                    System.out.println("chiru");
+                    break;
                 case "bala":
                     System.out.println("bala 1");
                     System.out.println("bala 2");
